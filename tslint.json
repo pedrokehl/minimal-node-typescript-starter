@@ -6,6 +6,9 @@
       true,
       "call-signature",
       "property-declaration"
-    ]
+    ],
+    "indent": [true, "spaces", 2],
+    "interface-name": false,
+    "radix": false
   }
 }
