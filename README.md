@@ -3,7 +3,7 @@
 The main purpose of this repository is to have an up-to-date starter project to write Node code in TypeScript.
 The idea is to have no code at all, just an example of code and unit-test.
 
-# Pre-reqs
+# Requirements
 To build and run this app you just need [Node.js](https://nodejs.org/en/) installed.
 
 # Getting started
